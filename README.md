@@ -25,6 +25,7 @@ Subjects
 * [Frontend Masters: SMACSS](https://frontendmasters.com/courses/smacss/) by Jonathan Snook :star::star::star:
 * [Frontend Masters: CSS3 In-Depth](https://frontendmasters.com/courses/css3-in-depth/) by Estelle Weyl :star::star::star:
 * [Lynda: CSS: Animations](http://www.lynda.com/CSS-tutorials/CSS-Animations/115434-2.html) by Val Head :star::star:
+* [Youtube: Airbnb Tech Talk: Nicole Sullivan - OOCSS and Preprocessors](https://www.youtube.com/watch?v=GhX8iPcDSsI)  by Nicole Sullivan :star::star::star:
 
 ##JavaScript
 * [Pluralsight: JavaScript Build Automation With Gulp.js](http://www.pluralsight.com/courses/javascript-build-automation-gulpjs) by John Papa :star::star::star: 
