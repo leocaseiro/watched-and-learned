@@ -10,6 +10,7 @@ Subjects
 * [PHP](#php)
 * [Testing](#testing)
 * [Theory](#theory)
+* [WordPress](#wordpress)
 
 
 ##AngularJS
@@ -22,8 +23,9 @@ Subjects
 * [Pluralsight: AngularJS Patterns: Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code) by John Papa :star::star:
 
 ##CSS
-* [Frontend Masters: SMACSS](https://frontendmasters.com/courses/smacss/) by Jonathan Snook :star::star::star:
+* [Frontend Masters: Animation in CSS3 and HTML5](https://frontendmasters.com/courses/animation-storytelling-html5-css3/) by Rachel Nabors :star::star::star:
 * [Frontend Masters: CSS3 In-Depth](https://frontendmasters.com/courses/css3-in-depth/) by Estelle Weyl :star::star::star:
+* [Frontend Masters: SMACSS](https://frontendmasters.com/courses/smacss/) by Jonathan Snook :star::star::star:
 * [Lynda: CSS: Animations](http://www.lynda.com/CSS-tutorials/CSS-Animations/115434-2.html) by Val Head :star::star:
 * [Youtube: Airbnb Tech Talk: Nicole Sullivan - OOCSS and Preprocessors](https://www.youtube.com/watch?v=GhX8iPcDSsI)  by Nicole Sullivan :star::star::star:
 
@@ -40,3 +42,7 @@ Subjects
 
 ##Theory
 * [Lynda: Foundations of Programming: Object-Oriented Design](http://www.lynda.com/Programming-tutorials/Foundations-Programming-Object-Oriented-Design/96949-2.html) by Simon Allardice :star::star::star:
+
+##WordPress
+* [WordPress.TV: Advanced Topics in WordPress Development (WP_Query)](http://wordpress.tv/2013/03/15/andrew-nacin-wp_query-wordpress-in-depth/) by Andrew Nacin :star::star::star:
+* **PT-BR** [Youtube Imasters InterCon Dev: Otimizando a performance do WordPress](https://www.youtube.com/watch?v=7v9ve3mnyec) by Hugo Cisneiros :star::star::star:
