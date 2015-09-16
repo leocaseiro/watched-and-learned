@@ -5,6 +5,7 @@
 Subjects
 -----------------
 * [AngularJS](#angularjs)
+* [CSS](#css)
 * [JavaScript](#javascript)
 * [PHP](#php)
 * [Testing](#testing)
@@ -19,6 +20,11 @@ Subjects
 * [Pluralsight: Angular: The Big Picture](http://www.pluralsight.com/courses/angular-big-picture) by Joe Eames :star::star:
 * [Pluralsight: AngularJS Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals) by Joe Eames and Jim Cooper :star::star::star:
 * [Pluralsight: AngularJS Patterns: Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code) by John Papa :star::star:
+
+##CSS
+* [Frontend Masters: SMACSS](https://frontendmasters.com/courses/smacss/) by Jonathan Snook :star::star::star:
+* [Frontend Masters: CSS3 In-Depth](https://frontendmasters.com/courses/css3-in-depth/) by Estelle Weyl :star::star::star:
+* [Lynda: CSS: Animations](http://www.lynda.com/CSS-tutorials/CSS-Animations/115434-2.html) by Val Head :star::star:
 
 ##JavaScript
 * [Pluralsight: JavaScript Build Automation With Gulp.js](http://www.pluralsight.com/courses/javascript-build-automation-gulpjs) by John Papa :star::star::star: 
