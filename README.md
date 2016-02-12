@@ -48,6 +48,3 @@ Subjects
 * [WordPress.TV: Advanced Topics in WordPress Development (WP_Query)](http://wordpress.tv/2013/03/15/andrew-nacin-wp_query-wordpress-in-depth/) by Andrew Nacin :star::star::star:
 * **PT-BR** [Youtube Imasters InterCon Dev: Otimizando a performance do WordPress](https://www.youtube.com/watch?v=7v9ve3mnyec) by Hugo Cisneiros :star::star::star:
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/leocaseiro/watched-and-learned/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
