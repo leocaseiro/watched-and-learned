@@ -17,6 +17,7 @@ Subjects
 * [Code School: Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js) by Gregg Pollack :star:
 * [Egghead: AngularJS Application Architecture](https://egghead.io/series/angularjs-application-architecture) by Lukas Ruebbelke :star::star::star:
 * [Egghead: AngularJS Fundamentals](https://egghead.io/series/angularjs-app-from-scratch-getting-started) by Lukas Ruebbelke :star::star::star:
+* [Egghead: Introduction to Angular Material](https://egghead.io/series/angular-material-introduction) by Aaron Frost
 * [Pluralsight: Angular Best Practices](http://www.pluralsight.com/courses/angular-best-practices) by Joe Eames :star::star:
 * [Pluralsight: Angular: The Big Picture](http://www.pluralsight.com/courses/angular-big-picture) by Joe Eames :star::star:
 * [Pluralsight: AngularJS Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals) by Joe Eames and Jim Cooper :star::star::star:
