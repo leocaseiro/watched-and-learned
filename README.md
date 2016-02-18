@@ -22,6 +22,7 @@ Subjects
 * [Pluralsight: Angular: The Big Picture](http://www.pluralsight.com/courses/angular-big-picture) by Joe Eames :star::star:
 * [Pluralsight: AngularJS Fundamentals](http://www.pluralsight.com/courses/angularjs-fundamentals) by Joe Eames and Jim Cooper :star::star::star:
 * [Pluralsight: AngularJS Patterns: Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code) by John Papa :star::star:
+* [Youtube: Material Design in Practice with AngularJS](https://www.youtube.com/watch?v=6sqtNUqNQYY)
 
 ##CSS
 * [Frontend Masters: Animation in CSS3 and HTML5](https://frontendmasters.com/courses/animation-storytelling-html5-css3/) by Rachel Nabors :star::star::star:
