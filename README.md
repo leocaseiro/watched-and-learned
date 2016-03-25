@@ -44,6 +44,7 @@ Subjects
 
 ##Testing
 * [Pluralsight: Testing AngularJS From Scratch](http://www.pluralsight.com/courses/testing-angularjs-from-scratch) by Jesse Liberty :star::star::star:
+* [Udacity: JavaScript Testing - Developing Apps with Confidence](https://www.udacity.com/course/javascript-testing--ud549) :star::star::star:
 
 ##Theory
 * [Lynda: Foundations of Programming: Object-Oriented Design](http://www.lynda.com/Programming-tutorials/Foundations-Programming-Object-Oriented-Design/96949-2.html) by Simon Allardice :star::star::star:
